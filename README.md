@@ -25,6 +25,14 @@ I'm passionate about solving real-world problems using technology, with a strong
 - Problem Solving  
 - Detail Orientation
 
+🛠️ Tools & Technologies
+- BPMN / UML (Camunda, Visual Paradigm)
+- R / RStudio (tidyverse, ggplot2, dplyr)
+- Power BI / DAX
+- Figma / Balsamiq
+- Git & GitHub
+
+
 ---
 
 ## 🚀 Projects (Selected)
