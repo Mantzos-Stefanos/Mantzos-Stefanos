@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-I'm passionate about solving real-world problems using technology, with a strong interest in bridging the gap between business needs and digital solutions. I'm not a developer, but I enjoy working on tech-driven projects that involve:
+I'm passionate about using technology to solve real-world problems. I enjoy understanding business needs, improving processes, and supporting digital projects — especially where teamwork between technical and non-technical people is important.
 
 - 📊 Business Process Modeling  
 - 🗂️ Documentation & System Analysis  
