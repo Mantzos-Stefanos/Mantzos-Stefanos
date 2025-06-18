@@ -31,6 +31,7 @@ I'm passionate about solving real-world problems using technology, with a strong
 
 | Project | Description |
 |--------|-------------|
+| [Power BI Dashboards](https://github.com/Mantzos-Stefanos/powerbi-dashboards) | Διαδραστικά dashboards σε Power BI για πωλήσεις και καταστήματα |
 | [3D Graphics & AR/VR](https://github.com/Mantzos-Stefanos/3d-ar-vr-user-interfaces) | Theoretical study on AR/VR & modern interfaces |
 | [Business Analytics Report](https://github.com/Mantzos-Stefanos/business-analytics-project) | Data analysis using RMarkdown & RPubs |
 | [WorkConnect (IBR)](https://github.com/Mantzos-Stefanos/project-management-report) | Project report for hotel staff scheduling system |
