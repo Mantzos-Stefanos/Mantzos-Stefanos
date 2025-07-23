@@ -39,11 +39,11 @@ I'm passionate about using technology to solve real-world problems. I enjoy unde
 
 | Project | Description |
 |---------|-------------|
-| Power BI Dashboards | Διαδραστικά dashboards σε Power BI για πωλήσεις και καταστήματα |
-| WorkConnect (IBR) | Project report for hotel staff scheduling system |
-| Business Analytics Report | Data analysis using RMarkdown & RPubs |
-| 3D Graphics & AR/VR | Theoretical study on AR/VR & modern interfaces |
-| Car Ops IS | UML, BPMN, mockups & functional analysis |
+| [Power BI Dashboards](link-to-power-bi-project) | Διαδραστικά dashboards σε Power BI για πωλήσεις και καταστήματα |
+| [WorkConnect (IBR)](link-to-workconnect-project) | Project report for hotel staff scheduling system |
+| [Business Analytics Report](link-to-business-analytics) | Data analysis using RMarkdown & RPubs |
+| [3D Graphics & AR/VR](link-to-arvr-project) | Theoretical study on AR/VR & modern interfaces |
+| [Car Ops IS](link-to-car-ops) | UML, BPMN, mockups & functional analysis |
 
 
 ---
