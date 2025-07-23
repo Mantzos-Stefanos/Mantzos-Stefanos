@@ -51,10 +51,6 @@ I'm passionate about using technology to solve real-world problems. I enjoy unde
 
 ## 📫 Contact
 
-📫 Contact
-
-📫 Contact
-
 - ✉️ Email: mantzosstefanos@gmail.com
 - 🌍 GitHub: [Mantzos-Stefanos](https://github.com/Mantzos-Stefanos)
 - 🔗 LinkedIn: [Stefanos Mantzos](https://www.linkedin.com/in/stefanos-mantzos-/)
