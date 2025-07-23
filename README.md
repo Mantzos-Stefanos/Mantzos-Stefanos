@@ -38,12 +38,13 @@ I'm passionate about using technology to solve real-world problems. I enjoy unde
 ## 🚀 Projects (Selected)
 
 | Project | Description |
-|--------|-------------|
-| [Power BI Dashboards](https://github.com/Mantzos-Stefanos/powerbi-dashboards) | Διαδραστικά dashboards σε Power BI για πωλήσεις και καταστήματα |
-| [3D Graphics & AR/VR]((https://github.com/Mantzos-Stefanos/hotel-shift-payroll-project)) | Theoretical study on AR/VR & modern interfaces |
-| [Business Analytics Report](https://github.com/Mantzos-Stefanos/business-analytics-project) | Data analysis using RMarkdown & RPubs |
-| [WorkConnect (IBR)](https://github.com/Mantzos-Stefanos/project-management-report) | Project report for hotel staff scheduling system |
-| [Car Ops IS](https://github.com/Mantzos-Stefanos/car-ops-is) | UML, BPMN, mockups & functional analysis |
+|---------|-------------|
+| Power BI Dashboards | Διαδραστικά dashboards σε Power BI για πωλήσεις και καταστήματα |
+| WorkConnect (IBR) | Project report for hotel staff scheduling system |
+| Business Analytics Report | Data analysis using RMarkdown & RPubs |
+| 3D Graphics & AR/VR | Theoretical study on AR/VR & modern interfaces |
+| Car Ops IS | UML, BPMN, mockups & functional analysis |
+
 
 ---
 
