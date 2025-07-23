@@ -39,11 +39,12 @@ I'm passionate about using technology to solve real-world problems. I enjoy unde
 
 | Project | Description |
 |---------|-------------|
-| [Power BI Dashboards](link-to-power-bi-project) | Διαδραστικά dashboards σε Power BI για πωλήσεις και καταστήματα |
-| [WorkConnect (IBR)](link-to-workconnect-project) | Project report for hotel staff scheduling system |
-| [Business Analytics Report](link-to-business-analytics) | Data analysis using RMarkdown & RPubs |
-| [3D Graphics & AR/VR](link-to-arvr-project) | Theoretical study on AR/VR & modern interfaces |
-| [Car Ops IS](link-to-car-ops) | UML, BPMN, mockups & functional analysis |
+| [Power BI Dashboards](https://github.com/Mantzos-Stefanos/powerbi-dashboards) | Διαδραστικά dashboards σε Power BI για πωλήσεις και καταστήματα |
+| [WorkConnect (IBR)](https://github.com/Mantzos-Stefanos/hotel-shift-payroll-project) | Project report for hotel staff scheduling system |
+| [Business Analytics Report](https://github.com/Mantzos-Stefanos/business-analytics-project) | Data analysis using RMarkdown & RPubs |
+| [Project Management Report](https://github.com/Mantzos-Stefanos/project-management-report) | Εργασία: WorkConnect – Σύστημα διαχείρισης βαρδιών & ημερομισθίων ξενοδοχείου |
+| [Car Ops IS](https://github.com/Mantzos-Stefanos/car-ops-is) | UML, BPMN, mockups & functional analysis |
+
 
 
 ---
