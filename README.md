@@ -2,7 +2,7 @@
 
 🎓 Applied Informatics student | Information Systems Track | University of Macedonia
 🏫 University of Macedonia 
-💼 Focused on **Business Analysis**,  **Project Management**,**IT Consulting**, and **Systems Design**
+💼 Focused on **Business Analysis**,  **Project Management**, **IT Consulting**, and **Systems Design**
 
 ---
 
